@@ -1,0 +1,26 @@
+# Список предметов и их параметры
+items:
+  - material: WOODEN_AXE
+    cooldown: 5.0
+  - material: STONE_AXE
+    cooldown: 6.0
+  - material: IRON_AXE
+    cooldown: 7.0
+  - material: DIAMOND_AXE
+    cooldown: 8.0
+  - material: NETHERITE_AXE
+    cooldown: 9.0
+  - material: WOODEN_SWORD
+    cooldown: 4.0
+  - material: STONE_SWORD
+    cooldown: 4.5
+  - material: IRON_SWORD
+    cooldown: 5.0
+  - material: DIAMOND_SWORD
+    cooldown: 5.5
+  - material: NETHERITE_SWORD
+    cooldown: 6.0
+
+messages:
+  reload: "&aКонфигурация успешно перезагружена!"
+  no-permission: "&cУ вас нет прав для использования этой команды!"

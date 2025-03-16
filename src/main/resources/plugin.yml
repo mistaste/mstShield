@@ -2,3 +2,15 @@ name: mstShield
 version: '${project.version}'
 main: ua.mistaste.mstshield.Main
 api-version: '1.16'
+commands:
+  mstshield:
+    description: Основная команда плагина
+    usage: /<command> reload
+    permission: mstshield.use
+permissions:
+  mstshield.use:
+    description: Право на использование плагина
+    default: op
+  mstshield.bypass:
+    description: Право на обход ограничений задержки
+    default: op
