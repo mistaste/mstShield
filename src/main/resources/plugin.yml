@@ -1,0 +1,4 @@
+name: mstShield
+version: '${project.version}'
+main: ua.mistaste.mstshield.Main
+api-version: '1.16'
